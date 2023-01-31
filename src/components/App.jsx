@@ -20,9 +20,9 @@ export const App = () => {
         avatar={user.avatar}
         stats={user.stats}
       />
-      <Statistics title="upload status" stats={data} />
+      {/* <Statistics title="upload status" stats={data} />
       <FriendList friends={friends} />
-      <TransactionHistory items={transactions} />
+      <TransactionHistory items={transactions} /> */}
       </div>
   );
 };
