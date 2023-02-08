@@ -1,4 +1,4 @@
-import Profile from "./Profile/Profile";
+import Profile from "./Profile/profile";
 import user from "./Profile/user.json";
 
 import Statistics from "./Statistics/Statistics";
