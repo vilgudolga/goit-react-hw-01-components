@@ -4,8 +4,8 @@
     overflow: hidden;
     text-align: center;
     background-color: rgb(248, 162, 64);
-    border-radius: 10px;
     margin-bottom: 20px;    
+    box-shadow: 0px 0px 3px 1px rgba(185, 185, 185, 1);
 }
 
 .thead {
